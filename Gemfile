@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '3.2.22'
+ruby '2.5.8'
 
 gem 'clockwork'
 gem 'tzinfo'
