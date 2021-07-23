@@ -18,7 +18,7 @@ end
 
 # Default variable set-up
 ENV['PING_METHOD'] = 'HEAD' if ENV['PING_METHOD'].nil?
-ENV['PING_INTERVAL'] = '1200' if ENV['PING_INTERVAL'].nil?
+ENV['PING_INTERVAL'] = '550' if ENV['PING_INTERVAL'].nil?
 ENV['PING_VERIFY_SSL'] = '0' if ENV['PING_VERIFY_SSL'].nil?
 
 ## -----------------------------------------------------------------------------
