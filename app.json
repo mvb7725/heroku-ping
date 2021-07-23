@@ -14,7 +14,7 @@
     },
     "PING_INTERVAL": {
       "description": "Time between pings. Specified in seconds.",
-      "value": "1200"
+      "value": "550"
     },
     "PING_VERIFY_SSL": {
       "description": "Should we expect valid SSL certificate if URI begins with `https`?",
